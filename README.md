@@ -13,10 +13,11 @@
 
 ---
 
-### 🌟 I'm working on...
-- [**Alley**](https://github.com/RevereInc/Alley) — A custom Practice PvP core [Minecraft]
-- [**Tulip**](https://github.com/hmEmmy/Tulip) — A Free-For-All plugin [Minecraft]
-- Maybe more in the future...
+### 🌟 My projects:
+- [**Alley**](https://github.com/RevereInc/Alley) — A custom Practice PvP core
+- [**Tulip**](https://github.com/hmEmmy/Tulip) — A Free-For-All plugin
+- [**Artex**](https://github.com/hmEmmy/Artex) — Server core
+- [**Clubs**](https://github.com/hmEmmy/Clubs) — Clans And Friends plugin  
 
 ---
 
